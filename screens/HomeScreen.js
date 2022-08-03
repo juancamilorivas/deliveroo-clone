@@ -6,7 +6,7 @@ import {
   TextInput,
   ScrollView,
 } from "react-native";
-import React, { useLayoutEffect } from "react";
+import React, { useLayoutEffect} from "react";
 import { useNavigation } from "@react-navigation/native";
 import {
   UserIcon,
@@ -17,14 +17,17 @@ import {
 import Categories from "../components/Categories";
 import FeaturedRow from "../components/FeaturedRow";
 
+
 const HomeScreen = () => {
   const navigation = useNavigation();
+
 
   useLayoutEffect(() => {
     navigation.setOptions({
       headerShown: false,
     });
   }, []);
+
 
   return (
     <SafeAreaView className="bg-white pt-5">
