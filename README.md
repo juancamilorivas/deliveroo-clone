@@ -3,7 +3,7 @@
 
 ## About the project
 
-Created with [Expo](https://expo.dev/) and [Javascript](https://www.typescriptlang.org). Renders restaurants list and a dishes. It uses a Sanity to save restaurants and dishes and allows you to select dishes. 
+Created with [Expo](https://expo.dev/) and [Javascript](https://www.typescriptlang.org). Renders restaurants list that contain dishes from restaurants around the world. It uses Sanity as backend to save restaurants and dishes that allow users simulate an order
 
 ## Available Scripts
 
@@ -16,7 +16,3 @@ To start the development server and run app on simulator or device
 #### `yarn android`
 
 #### `yarn ios`
-
-## To log in use the following credentials:  
-**Username:** camilo  
-**Password:** 12345
