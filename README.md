@@ -21,6 +21,6 @@ To start the development server and run app on simulator or device
 
 #### `sanity start`
 
-once sanity starts go back to main path and start with "expo start"
+Once sanity starts go back to main path and start with "expo start"
 
-if something goes wrong delete Sanity folder and do an "expo start", then go to the record and restore the deleted documents of Sanity with the project running
+If something goes wrong delete Sanity folder and do an "expo start", then go to the record and restore the deleted documents of Sanity with the project running
