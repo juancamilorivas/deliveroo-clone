@@ -1,4 +1,5 @@
-![Diseño sin título (18)](https://user-images.githubusercontent.com/67404147/184295740-3b510212-29da-418b-8efe-685ed7247069.png)
+![Diseño sin título (21)](https://user-images.githubusercontent.com/67404147/184323851-9c08482c-5c80-41da-8686-0901431a1ecf.png)
+
 
 
 ## About the project
