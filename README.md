@@ -4,7 +4,7 @@
 
 ## About the project
 
-Created with [Expo](https://expo.dev/) and [Javascript](https://www.typescriptlang.org). Renders restaurants list that contain dishes from restaurants around the world. It uses Sanity as backend to save restaurants and dishes that allow users simulate an order
+Created with [Expo](https://expo.dev/) and [Javascript](https://www.typescriptlang.org). Renders restaurants list that contain dishes from restaurants around the world. It uses [Sanity](https://github.com/sanity-io) as backend to save restaurants and dishes that allow users simulate an order
 
 ## Available Scripts
 
