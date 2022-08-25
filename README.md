@@ -14,14 +14,8 @@ Install dependencies
 
 To start the development server and run app on simulator or device
 
+#### `expo start`
+
 #### `yarn android`
 
 #### `yarn ios`
-
-#### `cd sanity`
-
-#### `sanity start`
-
-Once sanity starts go back to main path and start with "expo start"
-
-If something goes wrong delete Sanity folder and do an "expo start", then go to the record and restore the deleted documents of Sanity with the project running
