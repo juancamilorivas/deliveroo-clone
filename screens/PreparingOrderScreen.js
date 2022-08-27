@@ -7,10 +7,14 @@ import { useNavigation } from "@react-navigation/native";
 const PreparingOrderScreen = () => {
   const navigation = useNavigation();
 
+const next = () => {
+  setTimeout(() => {
+    navigation.navigate("Delivery");
+  }, 4000);
+}
+
   useEffect(() => {
-    setTimeout(() => {
-      navigation.navigate("Delivery");
-    }, 4000);
+    next()
   }, []);
 
   return (
