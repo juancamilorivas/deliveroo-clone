@@ -7,15 +7,11 @@ import { useNavigation } from "@react-navigation/native";
 const PreparingOrderScreen = () => {
   const navigation = useNavigation();
 
-const next = () => {
-  setTimeout(() => {
-    navigation.navigate("Delivery");
-  }, 4000);
-}
-
   useEffect(() => {
-    next()
-  }, []);
+    setTimeout(() => {
+      navigation.navigate("Delivery");
+    }, 3000);
+  });
 
   return (
     <SafeAreaView className="bg-[#00CCBB] flex-1 justify-center items-center">

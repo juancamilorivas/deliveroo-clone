@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "deliveroo-clone",
-    "slug": "deliveroo-clone",
+    "name": "deliveroo",
+    "slug": "deliveroo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -9,24 +9,22 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#00CCBB"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
     "android": {
-      "package": "com.example.deliveroo",
+      "package": "com.deliveroo.deliveroo",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      },
-      "package": "com.juancamilorivasmolina.deliverooclone"
+        "backgroundColor": "#00CCBB"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
